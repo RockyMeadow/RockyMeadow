@@ -1,8 +1,4 @@
-
-
 <details>
-  <summary align="center">me</summary>
-  <p>
-    <i>Meep Mop</i>
-  </p>
+  <summary>me</summary>
+  <i>Meep Mop</i>
 </details>
